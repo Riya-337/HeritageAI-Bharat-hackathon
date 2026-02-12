@@ -34,5 +34,5 @@ Riya Aggarwal | 2nd Year B.E. CSE, RVCE (9.05 CGPA) | Technical Foundation: Prof
 License
 This project is for educational and hackathon purposes. All rights reserved.
 
-For questions or contributions, contact: riyaaggarawal98473@gmail.com . Good luck in the hackathon! 
+For questions or contributions, contact: riyaaggarawal98473@gmail.com.
 
