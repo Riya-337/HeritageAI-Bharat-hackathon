@@ -29,7 +29,7 @@ Documentation Overview
 This repository contains the core documentation for the HeritageAI Bharat platform, submitted for Round 1 ideation in the hackathon. It includes requirements, design specs, and a presentation deck to demonstrate the concept's feasibility and impact. No prototype code is included yet—this is for concept evaluation only. If selected for Round 2, the prototype will be built based on these docs.
 
 Solo Developer
-Riya Aggarwal | 2nd Year B.E. CSE, RVCE (9.05 CGPA) | Technical Foundation: Proficient in Python, C, OOPS; Web Stack (HTML/CSS/JS); DSA in C++; Exploring AWS Serverless for social impact projects.
+Riya Aggarwal | 2nd Year B.E. CSE, RVCE (9.05 CGPA) | Technical Foundation: Proficient in Python, C, OOPS; Web Stack (HTML/CSS/JS); currently focusing on DSA in C++; Exploring AWS Serverless for social impact projects.
 
 License
 This project is for educational and hackathon purposes. All rights reserved.
